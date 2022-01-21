@@ -1,4 +1,4 @@
-# React İle Fetch Api Kullanarak Restoran Uygulaması
+# React İle Fetch API Kullanarak Restoran Uygulaması
 
 > ### Proje Link : https://condescending-babbage-fdd281.netlify.app
 
